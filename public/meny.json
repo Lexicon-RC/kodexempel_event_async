@@ -1,0 +1,7 @@
+[
+  { "id": 1, "namn": "Kaffe", "pris": 35 },
+  { "id": 2, "namn": "Latte", "pris": 42 },
+  { "id": 3, "namn": "Kardemummabulle", "pris": 32 },
+  { "id": 4, "namn": "Veganwrap", "pris": 75 },
+  { "id": 5, "namn": "Te", "pris": 30 }
+]
